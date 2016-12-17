@@ -1,0 +1,17 @@
+{
+  "name": "@dsims9t/graphql-selections",
+  "version": "0.0.5",
+  "description": "Traverses the nested-nodes in a GraphQL query and returns the selected columns. Useful for not over fetching database data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [
+    "graphql",
+    "selectionSet",
+    "selections",
+    "fieldNodes."
+  ],
+  "author": "David Sims",
+  "license": "ISC"
+}
